@@ -13,7 +13,7 @@ module.exports = {
         langKeyForNull: 'any',
         langKeyDefault: languages.defaultLangKey,
         useLangKeyLayout: true,
-        prefixDefault: false,
+        prefixDefault: true,
       }
     }],
 }
